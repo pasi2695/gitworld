@@ -6,9 +6,8 @@ fourth line of code
 
 fifth line of code
 sizth linke of conde
-<<<<<<< HEAD
 nine line of code
-abcdefg
-=======
-seventh line of code
->>>>>>> f28c79b4f78abf420e85cb5e36629981649bffad
+abcdefga
+vavfa
+
+avvaivaiuvaiufvbiarui
